@@ -1,0 +1,13 @@
+!!! NOTES
+!!! The only ones that need to be cleared are modifiers
+
+!! CapsLock => Escape, v.v.
+clear lock
+keycode 66 = Escape NoSymbol Escape
+keycode 9 = Caps_Lock NoSymbol Caps_Lock
+
+! Context menu => Super
+! keycode 135 = Super_R
+
+! ISO Level 3 Shift => Alt Right
+keycode 108 = Alt_L
