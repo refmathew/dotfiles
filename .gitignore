@@ -58,3 +58,8 @@
 .local/share/*
 !.local/share/fonts/
 !.local/share/fonts/**/*
+
+!Pictures/
+Pictues/*
+!Pictures/wallpapers/
+!Pictures/wallpapers/*
