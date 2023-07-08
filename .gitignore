@@ -1,0 +1,42 @@
+# *
+# !*/
+
+# .cache
+# .cargo
+# .tmux
+# .local
+# Programs
+# clones
+# jolan
+# temp
+
+# !.Xmodmap
+# !.bash_profile
+# !.bashrc
+# !.dmenurc
+# !.profile
+# !.xsession
+# !.tmux.conf
+
+# !.config/**
+# !fonts/
+
+*
+
+!.Xmodmap
+!.bash_profile
+!.bashrc
+!.dmenurc
+!.gitignore
+!.profile
+!.xsession
+!.tmux.conf
+
+!.config/**
+
+!.local/
+.local/*
+!.local/share/
+.local/share/*
+!.local/share/fonts/
+!.local/share/fonts/**/*
