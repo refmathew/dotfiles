@@ -32,7 +32,25 @@
 !.xsession
 !.tmux.conf
 
-!.config/**
+!.config/
+.config/*
+!.config/alacritty/
+!.config/alacritty/**/*
+!.config/i3/
+!.config/i3/**/*
+!.config/keepassxc/
+!.config/keepassxc/**/*
+!.config/nvim/
+!.config/nvim/**/*
+!.config/picom/
+!.config/picom/**/*
+!.config/vivaldi/
+!.config/vivaldi/**/*
+!.config/vivaldi/
+!.config/vivaldi/**/*
+!.config/tmux/
+!.config/tmux/**/*
+
 
 !.local/
 .local/*
