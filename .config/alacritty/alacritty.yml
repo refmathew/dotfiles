@@ -12,7 +12,7 @@ window:
 font:
   normal:
     family: Source Code Pro
-    style: Bold
+    style: Semibold
 
   size: 12
 
