@@ -44,6 +44,8 @@
 !.config/nvim/**/*
 !.config/picom/
 !.config/picom/**/*
+!.config/rofi/
+!.config/rofi**/*
 !.config/vivaldi/
 !.config/vivaldi/**/*
 !.config/vivaldi/
